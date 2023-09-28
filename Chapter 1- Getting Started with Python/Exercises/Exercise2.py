@@ -1,3 +1,5 @@
-import datetime
-d= datetime.datetime(2023, 10, 28)
-print (d)
+import sys
+print("Python version")
+print(sys.version)
+print("Version info")
+print(sys.version_info)
