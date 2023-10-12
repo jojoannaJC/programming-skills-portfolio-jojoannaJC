@@ -1,5 +1,5 @@
 #Q5: Write four strings in different variables and print the output as one string. 
-name="Joanna"
+name="Joanna Christabel"
 age=17
 course="Creative Computing"
 module_name="CODELAB 1"
