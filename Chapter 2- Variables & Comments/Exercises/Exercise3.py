@@ -5,7 +5,7 @@
 #Then print the name using each of the three stripping functions, lstrip(), rstrip(), and strip().
 
 
-l="\t Hello! n\ how are you? n\ hope you are good, t\ thanks!"
+l="\t Hello! n\ how are you? n\  I hope you are good, t\ thanks!"
 print(l)
 print(l.lstrip())
 print(l.rstrip())
