@@ -4,6 +4,6 @@
 #You will to use the arithmetic operators to complete this exercise.
 
 print("1 USB= $6")
-a=int(input("How many do u want to buy? "))
+a=int(input("How many USBs do u want to buy? "))
 b=int(50-(a*6))
-print("Your change: ",b)
+print("Your change: ", b)
