@@ -1,4 +1,5 @@
 print("Please introduce yourself")
+print("")
 a=(input("What is your name? "))
 b=(input("Where are you from? "))
 c=(input("How old are you? "))
@@ -13,5 +14,6 @@ k=(input("Name of father: "))
 l=(input("Name of Mother: "))
 m=(input("Siblings' name: (If no siblings, enter N/A) "))
 n=(input("Date of Birth: "))
+print("")
 print("Thank you for ur cooperation!")
 
