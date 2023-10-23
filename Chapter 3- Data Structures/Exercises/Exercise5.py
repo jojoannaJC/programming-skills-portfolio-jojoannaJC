@@ -8,7 +8,7 @@
 
 ilist=["Luka Coffaine", "Roronoa Zoro", "Portugas D. Ace", "Edgar Allan Poe", "Joanna Christabel"]
 
-ilist[1]="Cat Noir"
+ilist[1]="Michelangelo"
 
 print("Hello "+ ilist[0].title(),", You have been cordially invited to a dinner party hosted by Rak hotel. Please do come.")
 print("Hello "+ ilist[1].title(),", You have been cordially invited to a dinner party hosted by Rak hotel. Please do come.")
