@@ -10,3 +10,40 @@
 #	 Use sort() to change your list so it’s stored in alphabetical order. Print the list to show that its order has been changed.
 #	 Use sort() to change your list so it’s stored in reverse alphabetical order. Print the list to show that its order has changed.
 
+
+
+city=["Paris", "Tokyo", "Chennai", "Manila", "New York", "Seoul", "Bangkok"]
+print("Original order: ")
+print(city)
+
+print("\nAlphabetical: ")
+print(sorted(city))
+
+print("\nOriginal order: ")
+print(city)
+
+print("\nReverse Alphabetical:")
+print(sorted(city, reverse=True))
+
+print("\nOriginal order: ")
+print(city)
+
+print("\nReverse")
+city.reverse()
+print(city)
+
+print("\nOriginal order: ")
+print(city)
+
+print("\nAlphabetical: ")
+print(sorted(city))
+
+print("\nOriginal order: ")
+city.sort()
+print(city)
+
+print("\nReverse Alphabetical:")
+city.sort(reverse=True)
+print(city)
+
+
